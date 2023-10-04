@@ -39,3 +39,4 @@
 
 - [ ] 2017 | IEEE TGRS | [**Target Classification Using the Deep Convolutional Networks for SAR Images**](paper/Target_Classification_Using_the_Deep_Convolutional_Networks_for_SAR_Images-2.pdf) ｜ [**Code**](code/Target_Classification/MSTAR-AConvNet-master)
 
+- [ ] 2018 | IEEE TGRS | [**A Novel Deep Learning Framework for SAR Target Recognition**](paper/A_Novel_Deep_Learning_Framework_for_SAR_Target_Recognition.pdf) ｜ [**Code**](code/Target_Classification/DeepSAR-master)
