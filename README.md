@@ -28,6 +28,14 @@
 
 ## SAR-ATR 相关论文
 
+### 综述论文
+
+- [ ] 2023 | IEEE TGRS | [**Remote Sensing Object Detection Meets Deep Learning: A Meta-review of Challenges and Advances**](paper/2309.06751v1.pdf) ｜ [**Code**]()
+
+> 本综述涵盖了**300**多篇论文。我们确定了RSOD面临的五大挑战，包括**多尺度目标检测**、**旋转目标检测**、**弱目标检测**、**微小目标检测**，以及**有限监督下的目标检测**，并以层次化的方式系统地回顾了相应的方法。我们还回顾了RSOD领域内广泛使用的**基准数据集**和**评估指标**，以及RSOD的应用场景。最后，为了进一步促进RSOD的研究，我们提供了未来研究方向。
+
+
 ### 目标检测
 
-- [ ] 2017 | IEEE TGRS | [**Target Classification Using the Deep Convolutional Networks for SAR Images**](paper/Target_Classification_Using_the_Deep_Convolutional_Networks_for_SAR_Images-2.pdf) [**Code**](code/Target_Classification/MSTAR-AConvNet-master)
+- [ ] 2017 | IEEE TGRS | [**Target Classification Using the Deep Convolutional Networks for SAR Images**](paper/Target_Classification_Using_the_Deep_Convolutional_Networks_for_SAR_Images-2.pdf) ｜ [**Code**](code/Target_Classification/MSTAR-AConvNet-master)
+
